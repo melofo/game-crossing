@@ -21,3 +21,5 @@ _Value Proposition_</br>
 * Description
 * Tag
 * Requirement
+#### EER Diagram
+![Database Diagram](https://github.com/nancyyu17/gameCrossing/blob/master/images/GameCrossing_eer.png)
