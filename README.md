@@ -9,7 +9,7 @@ _Value Proposition_</br>
   &nbsp;GameXrossing (pronounced crossing) crosses the big 3 of the gaming industry: Users, Gamers, and Game Developers. It is a user-generated game analytics platofrm that provides game developers priceless insights into their games.
    With reviews, ratings, and discussion provided from gamers, GameXrossing empowers developers to make keen judgements during their development process and allows users to make smarter purchase decisions.
    
-##Models##
+## Models ##
 * Users
 * Game
 * Developer
